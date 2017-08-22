@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/OthAhmad/loader-simulation#readme",
   "devDependencies": {
+    "simulate-progress":"zeropaper/xt-simulate-progress",
     "browserify": "^14.4.0",
     "cp": "^0.2.0",
     "mkdirp": "^0.5.1",
